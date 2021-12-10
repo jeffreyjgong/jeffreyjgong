@@ -21,4 +21,4 @@ I'm currently a freshman at Yale studying Computer Science, Math, and Applied Ph
   </a> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=jeffreyjgong)
