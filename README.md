@@ -5,7 +5,7 @@ I'm currently a freshman at Yale studying Computer Science, Math, and Applied Ph
 <p align="center">
   <!-- GitHub badge --->
   <a href="https://github.com/jeffreyjgong" target="_blank">
-    ![](https://komarev.com/ghpvc/?username=jeffreyjgong)
+    <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=Plex&logoColor=white">
   </a> 
   <!-- Outlook badge --->
   <a href="mailto:jeffrey.gong@yale.edu" target="_blank">
@@ -21,4 +21,7 @@ I'm currently a freshman at Yale studying Computer Science, Math, and Applied Ph
   </a> 
 </p>
 
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=jeffreyjgong)
+</div>
 
