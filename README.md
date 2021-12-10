@@ -20,3 +20,5 @@ I'm currently a freshman at Yale studying Computer Science, Math, and Applied Ph
     <img alt="linkedin" src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a> 
 </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
