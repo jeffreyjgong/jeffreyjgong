@@ -2,7 +2,7 @@
 
 I'm currently a freshman at Yale studying Computer Science, Math, and Applied Physics. My main interests, as of now, are quantum computing, full-stack development, and pure math research. Here's my [resume](https://github.com/jeffreyjgong/jeffreyjgong/blob/main/Jeffrey%20Gong%20-%20Resume.pdf)! 
 
-<p align="center">
+<p align="left">
   <!-- GitHub badge --->
   <a href="https://github.com/jeffreyjgong" target="_blank">
     <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=Plex&logoColor=white">
