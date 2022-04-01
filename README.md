@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeffrey Gong 👋
 
-I'm currently a student at Yale studying Computer Science, Math, Applied Physics, and Philosophy. My main interests, as of now, are quantum computing, full-stack development, and pure math research.
+I'm currently a student at Yale studying Computer Science and Math. My main interests, as of now, are quantum computing, full-stack development, and pure math research.
 
 <p align="left">
   <!-- GitHub badge --->
