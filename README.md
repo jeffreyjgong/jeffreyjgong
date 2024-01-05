@@ -7,7 +7,7 @@ Gaps in contribution graph (Summer 2022, Summer 2023) are due to internships at 
 <p align="left">
   <!-- GitHub badge --->
   <a href="https://github.com/jeffreyjgong" target="_blank">
-    <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=Plex&logoColor=white">
+    <img alt="github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=GitHub&logoColor=white">
   </a> 
   <!-- Outlook badge --->
   <a href="mailto:jeffrey.gong@yale.edu" target="_blank">
