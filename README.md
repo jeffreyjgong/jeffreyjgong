@@ -2,7 +2,7 @@
 
 I'm currently a student at Yale studying Computer Science and Math. My main interests, as of now, are computational topology, software engineering, systems, machine learning, and quantum algorithms.
 
-Gaps in contribution graph (Summer 2022, Summer 2023) are due to internships at (CarMax, Riot Games). 
+Gaps in contribution graph (Summer 2022, Summer 2023, Summer 2024) are due to internships at (CarMax, Riot Games, Riot Games v2). 
 
 <p align="left">
   <!-- GitHub badge --->
